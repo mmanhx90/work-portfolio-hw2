@@ -31,7 +31,7 @@
   The application was tested using the browser.
 
 
-[Screenshot](./assets/images/Screenshot(13).png)
+[Screenshot](./assets/images/Screenshot%20(13).png)
 
 [Github Repo](https://github.com/mmanhx90/work-portfolio-hw2)
 
